@@ -160,17 +160,6 @@ const About = () => {
                   </p>
                 </div>
 
-                <div>
-                  <h3 className="text-orange-400 font-semibold">
-                    Web Developer Intern – CodSoft
-                  </h3>
-                  <p>
-                    Built responsive websites including a portfolio website,
-                    landing page, and calculator application while improving
-                    UI/UX, mobile responsiveness, and frontend performance.
-                  </p>
-                </div>
-
               </div>
             </div>
           </div>

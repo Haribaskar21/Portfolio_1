@@ -53,7 +53,7 @@ const Portfolio = () => {
             </div>
 
             <div className="flex justify-center items-center">
-                <img src={project.src} alt={project.title} className="h-[350px] w-[500px] object-cover border rounded border-gray-700" />
+                <img src={project.src} alt={project.title} className="h-[350px] w-[500px] object-fill border rounded border-gray-700" />
               </div>
           </div>
         ))}

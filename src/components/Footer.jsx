@@ -7,7 +7,7 @@ const Footer = () => {
       <h1 className='text-2xl font-bold'>Haribaskar</h1>
 
       <div className='flex space-x-6 mt-4'>
-        <a href="linkedin.com/in/hari-baskar-235887282" className='hover:text-gray-300'>
+        <a href="https://www.linkedin.com/in/hari-baskar-235887282/" className='hover:text-gray-300'>
           <FaLinkedin size={24} />
         </a>
         <a href="https://github.com/Haribaskar21" className='hover:text-gray-300'>
